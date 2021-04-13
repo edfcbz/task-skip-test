@@ -1,3 +1,4 @@
+# CREATING DOCUMENTATION
 # The concept of a RESTFul API for the Food Delivery segment
 
 This project implements the use of a RESTFull API for the Food Delivery segment. This API supports the entities necessary for research and control, such as Customers, Addresses, Restaurants and menu options, search by type of food and origin, order tracking your items and status, in addition to allowing different dishes to be ordered from different restaurants, in just one payment. In this API it is possible for a single or different delivery locations to be selected, also offering a control for the available deliverer by region and time.
