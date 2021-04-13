@@ -1,0 +1,2 @@
+verifyLoginPageMandatoryFieldsTest(ca.skip.app.restaurant.mobile.test.RestaurantAPP_LoginPageTest) OK
+verifyIsLoginPageTest(ca.skip.app.restaurant.mobile.test.RestaurantAPP_LoginPageTest) OK

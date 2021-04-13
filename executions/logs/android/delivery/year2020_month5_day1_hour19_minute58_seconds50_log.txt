@@ -1,0 +1,3 @@
+verifyIsPage(ca.skip.app.delivery.mobile.test.DeliveryAPP_MainScreenPageTest) OK
+verifyIsLoginPage(ca.skip.app.delivery.mobile.test.DeliveryAPP_LoginPageTest) OK
+verifyCancelAction(ca.skip.app.delivery.mobile.test.DeliveryAPP_LoginPageTest) OK

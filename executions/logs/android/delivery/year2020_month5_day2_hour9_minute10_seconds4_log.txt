@@ -1,0 +1,3 @@
+verifyIsLoginPage(ca.skip.app.delivery.mobile.test.DeliveryAPP_LoginPageTest) OK
+verifyCancelAction(ca.skip.app.delivery.mobile.test.DeliveryAPP_LoginPageTest) OK
+verifyFacebookLink(ca.skip.app.delivery.mobile.test.DeliveryAPP_LoginPageTest) org.openqa.selenium.TimeoutException: Expected condition failed: waiting for presence of element located by: By.xpath: //*[@text='Log into your Facebook account to connect to SkipTheDishes'] (tried for 30 second(s) with 500 milliseconds interval) FAIL

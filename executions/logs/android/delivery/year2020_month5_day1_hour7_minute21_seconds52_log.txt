@@ -1,0 +1,14 @@
+verifyIsPage(ca.skip.app.delivery.mobile.test.DeliveryAPP_MainScreenPageTest) OK
+verifyIsLoginPage(ca.skip.app.delivery.mobile.test.DeliveryAPP_LoginPageTest) OK
+verifyCancelAction(ca.skip.app.delivery.mobile.test.DeliveryAPP_LoginPageTest) OK
+verifyFacebookLink(ca.skip.app.delivery.mobile.test.DeliveryAPP_LoginPageTest) OK
+verifyDeliveryButtonActions(ca.skip.app.delivery.mobile.test.DeliveryAPP_DeliveryPageTest) OK
+verifyMandatoryField_confirmPassword(ca.skip.app.delivery.mobile.test.DeliveryAPP_SignUpPageTest) OK
+verifyPasswordSize(ca.skip.app.delivery.mobile.test.DeliveryAPP_SignUpPageTest) OK
+verifyIsPage(ca.skip.app.delivery.mobile.test.DeliveryAPP_SignUpPageTest) OK
+verifyDifferentPassword(ca.skip.app.delivery.mobile.test.DeliveryAPP_SignUpPageTest) OK
+verifyEmailFormat(ca.skip.app.delivery.mobile.test.DeliveryAPP_SignUpPageTest) org.openqa.selenium.TimeoutException: Expected condition failed: waiting for presence of element located by: By.xpath: //*[@text='A Better Way to Get'] (tried for 10 second(s) with 500 milliseconds interval) FAIL
+verifyMandatoryField_email(ca.skip.app.delivery.mobile.test.DeliveryAPP_SignUpPageTest) org.openqa.selenium.TimeoutException: Expected condition failed: waiting for presence of element located by: By.xpath: //*[@text='A Better Way to Get'] (tried for 10 second(s) with 500 milliseconds interval) FAIL
+verifyMandatoryField_phone(ca.skip.app.delivery.mobile.test.DeliveryAPP_SignUpPageTest) OK
+verifyMandatoryField_password(ca.skip.app.delivery.mobile.test.DeliveryAPP_SignUpPageTest) OK
+verifyMandatoryField_name(ca.skip.app.delivery.mobile.test.DeliveryAPP_SignUpPageTest) OK

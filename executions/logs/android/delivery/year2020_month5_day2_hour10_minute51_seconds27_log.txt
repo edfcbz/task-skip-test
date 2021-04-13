@@ -1,0 +1,9 @@
+verifyMandatoryField_confirmPassword(ca.skip.app.delivery.mobile.test.DeliveryAPP_SignUpPageTest) OK
+verifyPasswordSize(ca.skip.app.delivery.mobile.test.DeliveryAPP_SignUpPageTest) OK
+verifyIsPage(ca.skip.app.delivery.mobile.test.DeliveryAPP_SignUpPageTest) OK
+verifyDifferentPassword(ca.skip.app.delivery.mobile.test.DeliveryAPP_SignUpPageTest) java.lang.IllegalArgumentException: Cannot find elements when the id is null. FAIL
+verifyEmailFormat(ca.skip.app.delivery.mobile.test.DeliveryAPP_SignUpPageTest) OK
+verifyMandatoryField_email(ca.skip.app.delivery.mobile.test.DeliveryAPP_SignUpPageTest) OK
+verifyMandatoryField_phone(ca.skip.app.delivery.mobile.test.DeliveryAPP_SignUpPageTest) OK
+verifyMandatoryField_password(ca.skip.app.delivery.mobile.test.DeliveryAPP_SignUpPageTest) OK
+verifyMandatoryField_name(ca.skip.app.delivery.mobile.test.DeliveryAPP_SignUpPageTest) OK

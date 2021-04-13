@@ -1,0 +1,5 @@
+verifyLoginPageTest(ca.skip.app.restaurant.mobile.test.RestaurantAPP_LoginPageTest) OK
+verifyMainScreen(ca.skip.app.restaurant.mobile.test.RestaurantAPP_MainScreenPageTest) OK
+verifyRecoveryPasswordPage_emailInvalidFortatTest(ca.skip.app.restaurant.mobile.test.RestaurantAPP_RecoveryPasswordPageTest) OK
+verifyRecoveryPasswordPage_ScreenTest(ca.skip.app.restaurant.mobile.test.RestaurantAPP_RecoveryPasswordPageTest) OK
+verifyRecoveryPasswordPage_MandatoryFieldEmailTest(ca.skip.app.restaurant.mobile.test.RestaurantAPP_RecoveryPasswordPageTest) OK

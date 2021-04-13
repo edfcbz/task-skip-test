@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="ca/skip/app/restaurant/mobile/bdd/features/|ca/skip/app/delivery/mobile/page/" kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="target/apks"/>
+	<classpathentry kind="src" path="executions"/>
+	<classpathentry kind="src" path="properties"/>
+	<classpathentry kind="src" path="src/main/java/ca/skip/app/delivery/mobile/page"/>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="target/apks/courrier.xapk"/>
+	<classpathentry kind="lib" path="target/apks/delivery.apk"/>
+	<classpathentry kind="lib" path="target/apks/restaurant.apk"/>
+	<classpathentry kind="lib" path="src/resources/aprender_Cucumber.feature"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>

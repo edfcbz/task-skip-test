@@ -1,0 +1,23 @@
+verifyIsPage(ca.skip.app.delivery.mobile.test.DeliveryAPP_MainScreenPageTest) OK
+verifyIsLoginPage(ca.skip.app.delivery.mobile.test.DeliveryAPP_LoginPageTest) OK
+verifyCancelAction(ca.skip.app.delivery.mobile.test.DeliveryAPP_LoginPageTest) OK
+verifyFacebookLink(ca.skip.app.delivery.mobile.test.DeliveryAPP_LoginPageTest) OK
+verifyIsPage(ca.skip.app.delivery.mobile.test.DeliveryAPP_DeliveryPageTest) OK
+verifyDeliveryButtonActions(ca.skip.app.delivery.mobile.test.DeliveryAPP_DeliveryPageTest) OK
+verifyMandatoryField_confirmPassword(ca.skip.app.delivery.mobile.test.DeliveryAPP_SignUpPageTest) OK
+verifyPasswordSize(ca.skip.app.delivery.mobile.test.DeliveryAPP_SignUpPageTest) OK
+verifyIsPage(ca.skip.app.delivery.mobile.test.DeliveryAPP_SignUpPageTest) OK
+verifyDifferentPassword(ca.skip.app.delivery.mobile.test.DeliveryAPP_SignUpPageTest) OK
+verifyEmailFormat(ca.skip.app.delivery.mobile.test.DeliveryAPP_SignUpPageTest) OK
+verifyMandatoryField_email(ca.skip.app.delivery.mobile.test.DeliveryAPP_SignUpPageTest) OK
+verifyMandatoryField_phone(ca.skip.app.delivery.mobile.test.DeliveryAPP_SignUpPageTest) OK
+verifyMandatoryField_password(ca.skip.app.delivery.mobile.test.DeliveryAPP_SignUpPageTest) OK
+verifyMandatoryField_name(ca.skip.app.delivery.mobile.test.DeliveryAPP_SignUpPageTest) OK
+verifyLoginPageEmailMandatoryFieldTest(ca.skip.app.restaurant.mobile.test.RestaurantAPP_LoginPageTest) java.lang.AssertionError FAIL
+verifyLoginPagePasswordMandatoryFieldTest(ca.skip.app.restaurant.mobile.test.RestaurantAPP_LoginPageTest) java.lang.AssertionError FAIL
+verifyLoginPageMandatoryFieldsTest(ca.skip.app.restaurant.mobile.test.RestaurantAPP_LoginPageTest) java.lang.AssertionError FAIL
+verifyIsLoginPageTest(ca.skip.app.restaurant.mobile.test.RestaurantAPP_LoginPageTest) OK
+verifyIsMainPage(ca.skip.app.restaurant.mobile.test.RestaurantAPP_MainScreenPageTest) OK
+verifyRecoveryPasswordPage_emailInvalidFortatTest(ca.skip.app.restaurant.mobile.test.RestaurantAPP_RecoveryPasswordPageTest) OK
+verifyRecoveryPasswordPage_emailMAndatoryFieldTest(ca.skip.app.restaurant.mobile.test.RestaurantAPP_RecoveryPasswordPageTest) OK
+verifyIsRecoveryPasswordPageTest(ca.skip.app.restaurant.mobile.test.RestaurantAPP_RecoveryPasswordPageTest) OK

@@ -1,0 +1,3 @@
+verifyIsLoginPage(ca.skip.app.delivery.mobile.test.DeliveryAPP_LoginPageTest) OK
+verifyCancelAction(ca.skip.app.delivery.mobile.test.DeliveryAPP_LoginPageTest) OK
+verifyFacebookLink(ca.skip.app.delivery.mobile.test.DeliveryAPP_LoginPageTest) OK

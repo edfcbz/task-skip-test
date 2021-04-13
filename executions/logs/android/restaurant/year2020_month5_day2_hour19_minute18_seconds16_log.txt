@@ -1,0 +1,1 @@
+verifyRecoveryPasswordPage_emailInvalidFortatTest(ca.skip.app.restaurant.mobile.test.RestaurantAPP_RecoveryPasswordPageTest) OK

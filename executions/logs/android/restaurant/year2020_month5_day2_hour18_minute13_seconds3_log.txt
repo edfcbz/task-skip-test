@@ -1,0 +1,1 @@
+verifyIsMainPage(ca.skip.app.restaurant.mobile.test.RestaurantAPP_MainScreenPageTest) java.lang.AssertionError FAIL

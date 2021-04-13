@@ -1,0 +1,7 @@
+verifyDeliveryButtonActions(ca.skip.app.delivery.mobile.test.DeliveryAPP_DeliveryPageTest) org.openqa.selenium.WebDriverException: An unknown server-side error occurred while processing the command. Original error: Must provide a selector when finding elements
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'LAPTOP', ip: '192.168.165.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_111'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {app: D:/eclipse-workspace/SkipAp..., appPackage: com.ncconsulting.skipthedis..., applicationName: delivery.apk, automationName: uiautomator2, databaseEnabled: false, desired: {app: D:/eclipse-workspace/SkipAp..., applicationName: delivery.apk, automationName: uiautomator2, deviceName: Nexus, platformName: android}, deviceApiLevel: 28, deviceManufacturer: Google, deviceModel: AOSP on IA Emulator, deviceName: emulator-5554, deviceScreenDensity: 420, deviceScreenSize: 1080x1920, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 2.625, platform: LINUX, platformName: Android, platformVersion: 9, statBarHeight: 63, takesScreenshot: true, viewportRect: {height: 1731, left: 0, top: 63, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: cca6d002-ef2d-4abb-bded-310761547fc6
+*** Element info: {Using=id, value=} FAIL

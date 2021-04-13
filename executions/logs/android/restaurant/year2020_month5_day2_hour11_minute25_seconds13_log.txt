@@ -1,0 +1,1 @@
+verifyMainScreen(ca.skip.app.restaurant.mobile.test.RestaurantAPP_MainScreenPageTest) OK

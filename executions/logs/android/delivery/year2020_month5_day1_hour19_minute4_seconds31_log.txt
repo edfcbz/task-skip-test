@@ -1,0 +1,14 @@
+verifyIsPage(ca.skip.app.delivery.mobile.test.DeliveryAPP_MainScreenPageTest) OK
+verifyIsLoginPage(ca.skip.app.delivery.mobile.test.DeliveryAPP_LoginPageTest) OK
+verifyCancelAction(ca.skip.app.delivery.mobile.test.DeliveryAPP_LoginPageTest) OK
+verifyFacebookLink(ca.skip.app.delivery.mobile.test.DeliveryAPP_LoginPageTest) org.openqa.selenium.TimeoutException: Expected condition failed: waiting for presence of element located by: By.xpath: //*[@text='Log into your Facebook account to connect to SkipTheDishes'] (tried for 20 second(s) with 500 milliseconds interval) FAIL
+verifyDeliveryButtonActions(ca.skip.app.delivery.mobile.test.DeliveryAPP_DeliveryPageTest) OK
+verifyMandatoryField_confirmPassword(ca.skip.app.delivery.mobile.test.DeliveryAPP_SignUpPageTest) OK
+verifyPasswordSize(ca.skip.app.delivery.mobile.test.DeliveryAPP_SignUpPageTest) OK
+verifyIsPage(ca.skip.app.delivery.mobile.test.DeliveryAPP_SignUpPageTest) OK
+verifyDifferentPassword(ca.skip.app.delivery.mobile.test.DeliveryAPP_SignUpPageTest) OK
+verifyEmailFormat(ca.skip.app.delivery.mobile.test.DeliveryAPP_SignUpPageTest) OK
+verifyMandatoryField_email(ca.skip.app.delivery.mobile.test.DeliveryAPP_SignUpPageTest) OK
+verifyMandatoryField_phone(ca.skip.app.delivery.mobile.test.DeliveryAPP_SignUpPageTest) OK
+verifyMandatoryField_password(ca.skip.app.delivery.mobile.test.DeliveryAPP_SignUpPageTest) OK
+verifyMandatoryField_name(ca.skip.app.delivery.mobile.test.DeliveryAPP_SignUpPageTest) OK

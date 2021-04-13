@@ -1,0 +1,1 @@
+verifyDifferentPassword(ca.skip.app.delivery.mobile.test.DeliveryAPP_SignUpPageTest) java.lang.AssertionError FAIL

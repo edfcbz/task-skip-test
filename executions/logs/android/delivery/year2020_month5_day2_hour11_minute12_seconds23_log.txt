@@ -1,0 +1,1 @@
+verifyIsPage(ca.skip.app.delivery.mobile.test.DeliveryAPP_DeliveryPageTest) OK
